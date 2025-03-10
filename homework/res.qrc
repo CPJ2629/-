@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="/image">
+    <file>res/BeiJing.png</file>
+    <file>res/BeiJingIcon.png</file>
+    <file>res/ChengDu.jpg</file>
+    <file>res/ChengDuIcon.jpg</file>
+    <file>res/china.jpg</file>
+    <file>res/genshin.jpg</file>
+    <file>res/GuangZhou.jpg</file>
+    <file>res/GuangZhouIcon.jpg</file>
+    <file>res/load in.jpg</file>
+    <file>res/new_load.jpg</file>
+    <file>res/pm2.5.jpg</file>
+    <file>res/rain.jpg</file>
+    <file>res/ShangHai.jpg</file>
+    <file>res/ShangHaiIcon.jpg</file>
+    <file>res/three.jpg</file>
+    <file>res/wet.jpg</file>
+    <file>res/wind.jpg</file>
+    <file>res/wind_pos.jpg</file>
+  </qresource>
+</RCC>
